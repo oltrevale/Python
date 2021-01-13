@@ -2,8 +2,11 @@
 
 Una lista delle risorse python che mi servono
 
-## Tabella dei contenuti 
-
+## Tabella dei contenuti:
+- [Risorse](risorse)
+- [Networking](networking)
+- [Cose a caso](cose a caso)
+- [Progetto A](progetto A)
 
 ### Risorse:
 - [User Agent](http://www.useragentstring.com/pages/useragentstring.php?name=Chrome)
