@@ -32,8 +32,4 @@ Una lista delle risorse python che mi servono
 
 - [Gambeboy Emulatore](https://github.com/Baekalfen/PyBoy)
 
-### Progetto One Piece
 
-### Progetto Stocks
-
-### Progetto Serie A
