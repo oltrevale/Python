@@ -24,4 +24,11 @@ esempio headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1
 ### Cose a caso
 - [Gambeboy Emulatore](https://github.com/Baekalfen/PyBoy)
 
+### Progetto One Piece
+
+
+
+### Progetto Stocks
+
+
 ### Progetto Serie A
