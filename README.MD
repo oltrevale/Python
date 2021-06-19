@@ -2,11 +2,6 @@
 
 Una lista delle risorse python che mi servono
 
-## Tabella dei contenuti:
-
-- [Risorse](#risorse)
-- [Networking](#networking)
-
 ### Risorse:
 
 - [Lista di tutto](https://awesome-python.com/)
