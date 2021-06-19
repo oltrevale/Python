@@ -10,6 +10,7 @@ Una lista delle risorse python che mi servono
 ### Risorse:
 
 - [Lista di tutto](https://awesome-python.com/)
+- [Sito con 70 progetti](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 - [User Agent](http://www.useragentstring.com/pages/useragentstring.php?name=Chrome)
   esempio headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like
   Gecko) ''Chrome/39.0.2171.95 Safari/537.36'})
