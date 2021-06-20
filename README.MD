@@ -14,16 +14,13 @@ Una lista delle risorse python che mi servono
 - [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 - [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
-### Networking:
+### Progetti
 
 - [Chat](https://github.com/MysteryCoder456/PythonChatCLI/blob/master/server.py)
 - [Download Yt video as mp3](https://gist.github.com/Shell1500/d8516351513ac5f89283ccd905637837)
 - [Downlaod Instagram](https://github.com/sameera-madushan/InstaSave)
 - [Download Facebook](https://github.com/sameera-madushan/Facebook-Video-Downloader)
 - [Monitora Stock](https://github.com/jkwill87/stonky)
-
-### Cose a caso:
-
 - [Gambeboy Emulatore](https://github.com/Baekalfen/PyBoy)
 
 
