@@ -14,6 +14,5 @@ Una lista delle risorse python che mi servono
 ### Progetti
 - [Esercizi](https://rosettacode.org/wiki/Category:Python)
 - [Sito con 70 progetti](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
-- [Gambeboy Emulatore](https://github.com/Baekalfen/PyBoy)
 
 
