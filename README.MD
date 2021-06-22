@@ -14,4 +14,4 @@
 - [Esercizi](https://rosettacode.org/wiki/Category:Python)
 - [Sito con 70 progetti](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 - [Reddit Setiment Trader](https://github.com/tstewart161/Reddit_Sentiment_Trader)
-- [Python CyberSecuriy](https://www.youtube.com/watch?v=bH-3PuQC_n0&list=PLR0bgGon_WTIjs0lyCAUp3v1qAraXCJcH)
+- [Python Cybersecuriy](https://www.youtube.com/watch?v=bH-3PuQC_n0&list=PLR0bgGon_WTIjs0lyCAUp3v1qAraXCJcH)
